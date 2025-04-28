@@ -6,7 +6,7 @@ Voici le projet du groupe "room 4" pourtant sur la prédiction des scores l'exam
    - "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data"
  - En équipe avec :  
    - Thomas   : https://github.com/FastCapybara31/dse  
-   - ALbert   : https://github.com/Ter0rra/projet-DSE-FT-101-room-4-/tree/main  
+   - Albert   : https://github.com/Ter0rra/projet-DSE-FT-101-room-4-/tree/main  
    - Asma     :
    - Olivier  :  
 
