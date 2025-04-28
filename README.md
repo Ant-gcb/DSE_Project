@@ -8,7 +8,7 @@ Voici le projet du groupe "room 4" pourtant sur la prédiction des scores l'exam
    - Thomas   : https://github.com/FastCapybara31/dse  
    - Albert   : https://github.com/Ter0rra/projet-DSE-FT-101-room-4-/tree/main  
    - Asma     :
-   - Olivier  :  
+   - Olivier  :  https://github.com/Olivier-DSE/DSE---FULL-TIME---Projet-final
 
 ## Features:
 - Incorpore le dataset en dataframe et l'analyse.
